@@ -1,0 +1,275 @@
+2024-04-14 10:47:26,214 - Model - INFO - PARAMETER ...
+2024-04-14 10:47:26,214 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 10:47:29,480 - Model - INFO - The number of test data is: 1
+2024-04-14 10:48:20,366 - Model - INFO - PARAMETER ...
+2024-04-14 10:48:20,367 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 10:48:20,405 - Model - INFO - The number of test data is: 1
+2024-04-14 10:48:21,312 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 10:55:52,599 - Model - INFO - PARAMETER ...
+2024-04-14 10:55:52,599 - Model - INFO - PARAMETER ...
+2024-04-14 10:55:52,603 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 10:55:52,603 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 10:55:52,662 - Model - INFO - The number of test data is: 1
+2024-04-14 10:55:52,662 - Model - INFO - The number of test data is: 1
+2024-04-14 10:55:52,765 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 10:55:52,765 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 11:00:24,979 - Model - INFO - PARAMETER ...
+2024-04-14 11:00:24,979 - Model - INFO - PARAMETER ...
+2024-04-14 11:00:24,979 - Model - INFO - PARAMETER ...
+2024-04-14 11:00:24,980 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 11:00:24,980 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 11:00:24,980 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 11:00:25,075 - Model - INFO - The number of test data is: 1
+2024-04-14 11:00:25,075 - Model - INFO - The number of test data is: 1
+2024-04-14 11:00:25,075 - Model - INFO - The number of test data is: 1
+2024-04-14 11:00:25,159 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 11:00:25,159 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 11:00:25,159 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 11:03:21,440 - Model - INFO - PARAMETER ...
+2024-04-14 11:03:21,440 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 11:03:21,476 - Model - INFO - The number of test data is: 1
+2024-04-14 11:03:22,209 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 11:10:58,565 - Model - INFO - PARAMETER ...
+2024-04-14 11:10:58,565 - Model - INFO - PARAMETER ...
+2024-04-14 11:10:58,566 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 11:10:58,566 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 11:10:58,591 - Model - INFO - The number of test data is: 1
+2024-04-14 11:10:58,591 - Model - INFO - The number of test data is: 1
+2024-04-14 11:10:58,690 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 11:10:58,690 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 11:27:35,133 - Model - INFO - PARAMETER ...
+2024-04-14 11:27:35,134 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 11:27:35,170 - Model - INFO - The number of test data is: 1
+2024-04-14 11:27:35,975 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 12:09:46,859 - Model - INFO - PARAMETER ...
+2024-04-14 12:09:46,864 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 12:09:47,821 - Model - INFO - The number of test data is: 1
+2024-04-14 12:09:48,610 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 12:44:41,620 - Model - INFO - PARAMETER ...
+2024-04-14 12:44:41,624 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 12:44:42,580 - Model - INFO - The number of test data is: 1
+2024-04-14 12:44:43,486 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 12:56:13,308 - Model - INFO - PARAMETER ...
+2024-04-14 12:56:13,308 - Model - INFO - PARAMETER ...
+2024-04-14 12:56:13,308 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 12:56:13,308 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 12:56:13,363 - Model - INFO - The number of test data is: 1
+2024-04-14 12:56:13,363 - Model - INFO - The number of test data is: 1
+2024-04-14 12:56:13,511 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 12:56:13,511 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 13:07:32,314 - Model - INFO - PARAMETER ...
+2024-04-14 13:07:32,314 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 13:07:33,284 - Model - INFO - The number of test data is: 1
+2024-04-14 13:07:33,982 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 14:02:39,749 - Model - INFO - PARAMETER ...
+2024-04-14 14:02:39,750 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 14:02:39,768 - Model - INFO - The number of test data is: 1
+2024-04-14 14:02:40,484 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 14:09:10,703 - Model - INFO - PARAMETER ...
+2024-04-14 14:09:10,703 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 14:09:10,718 - Model - INFO - The number of test data is: 1
+2024-04-14 14:09:11,448 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 14:10:26,181 - Model - INFO - PARAMETER ...
+2024-04-14 14:10:26,181 - Model - INFO - PARAMETER ...
+2024-04-14 14:10:26,181 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 14:10:26,181 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 14:10:26,231 - Model - INFO - The number of test data is: 1
+2024-04-14 14:10:26,231 - Model - INFO - The number of test data is: 1
+2024-04-14 14:10:26,322 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 14:10:26,322 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 14:11:06,109 - Model - INFO - PARAMETER ...
+2024-04-14 14:11:06,109 - Model - INFO - PARAMETER ...
+2024-04-14 14:11:06,109 - Model - INFO - PARAMETER ...
+2024-04-14 14:11:06,109 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 14:11:06,109 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 14:11:06,109 - Model - INFO - Namespace(batch_size=16, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 14:11:06,203 - Model - INFO - The number of test data is: 1
+2024-04-14 14:11:06,203 - Model - INFO - The number of test data is: 1
+2024-04-14 14:11:06,203 - Model - INFO - The number of test data is: 1
+2024-04-14 14:11:06,280 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 14:11:06,280 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 14:11:06,280 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 14:59:04,644 - Model - INFO - PARAMETER ...
+2024-04-14 14:59:04,649 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 14:59:04,664 - Model - INFO - The number of test data is: 1
+2024-04-14 14:59:05,448 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 17:30:08,834 - Model - INFO - PARAMETER ...
+2024-04-14 17:30:08,834 - Model - INFO - PARAMETER ...
+2024-04-14 17:30:08,835 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 17:30:08,835 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 17:30:08,889 - Model - INFO - The number of test data is: 1
+2024-04-14 17:30:08,889 - Model - INFO - The number of test data is: 1
+2024-04-14 17:30:09,053 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 17:30:09,053 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 18:41:35,197 - Model - INFO - PARAMETER ...
+2024-04-14 18:41:35,197 - Model - INFO - PARAMETER ...
+2024-04-14 18:41:35,197 - Model - INFO - PARAMETER ...
+2024-04-14 18:41:35,199 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 18:41:35,199 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 18:41:35,199 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 18:41:35,294 - Model - INFO - The number of test data is: 1
+2024-04-14 18:41:35,294 - Model - INFO - The number of test data is: 1
+2024-04-14 18:41:35,294 - Model - INFO - The number of test data is: 1
+2024-04-14 18:41:35,368 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 18:41:35,368 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 18:41:35,368 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 21:02:35,840 - Model - INFO - PARAMETER ...
+2024-04-14 21:02:35,840 - Model - INFO - PARAMETER ...
+2024-04-14 21:02:35,840 - Model - INFO - PARAMETER ...
+2024-04-14 21:02:35,840 - Model - INFO - PARAMETER ...
+2024-04-14 21:02:35,842 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 21:02:35,842 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 21:02:35,842 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 21:02:35,842 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-14 21:02:37,533 - Model - INFO - The number of test data is: 1
+2024-04-14 21:02:37,533 - Model - INFO - The number of test data is: 1
+2024-04-14 21:02:37,533 - Model - INFO - The number of test data is: 1
+2024-04-14 21:02:37,533 - Model - INFO - The number of test data is: 1
+2024-04-14 21:02:37,620 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 21:02:37,620 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 21:02:37,620 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-14 21:02:37,620 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 07:17:06,912 - Model - INFO - PARAMETER ...
+2024-04-26 07:17:06,914 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 07:17:07,843 - Model - INFO - The number of test data is: 1
+2024-04-26 07:17:10,681 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 10:01:04,811 - Model - INFO - PARAMETER ...
+2024-04-26 10:01:04,811 - Model - INFO - PARAMETER ...
+2024-04-26 10:01:04,813 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 10:01:04,813 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 10:01:05,745 - Model - INFO - The number of test data is: 1
+2024-04-26 10:01:05,745 - Model - INFO - The number of test data is: 1
+2024-04-26 10:01:05,941 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 10:01:05,941 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 11:10:11,095 - Model - INFO - PARAMETER ...
+2024-04-26 11:10:11,095 - Model - INFO - PARAMETER ...
+2024-04-26 11:10:11,095 - Model - INFO - PARAMETER ...
+2024-04-26 11:10:11,096 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 11:10:11,096 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 11:10:11,096 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 11:10:12,028 - Model - INFO - The number of test data is: 1
+2024-04-26 11:10:12,028 - Model - INFO - The number of test data is: 1
+2024-04-26 11:10:12,028 - Model - INFO - The number of test data is: 1
+2024-04-26 11:10:12,097 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 11:10:12,097 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 11:10:12,097 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 13:26:56,808 - Model - INFO - PARAMETER ...
+2024-04-26 13:26:56,808 - Model - INFO - PARAMETER ...
+2024-04-26 13:26:56,808 - Model - INFO - PARAMETER ...
+2024-04-26 13:26:56,808 - Model - INFO - PARAMETER ...
+2024-04-26 13:26:56,810 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 13:26:56,810 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 13:26:56,810 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 13:26:56,810 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 13:26:58,918 - Model - INFO - The number of test data is: 1
+2024-04-26 13:26:58,918 - Model - INFO - The number of test data is: 1
+2024-04-26 13:26:58,918 - Model - INFO - The number of test data is: 1
+2024-04-26 13:26:58,918 - Model - INFO - The number of test data is: 1
+2024-04-26 13:26:58,984 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 13:26:58,984 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 13:26:58,984 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 13:26:58,984 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 15:27:16,996 - Model - INFO - PARAMETER ...
+2024-04-26 15:27:16,999 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 15:27:17,091 - Model - INFO - The number of test data is: 1
+2024-04-26 15:27:17,866 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 15:28:49,920 - Model - INFO - PARAMETER ...
+2024-04-26 15:28:49,920 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 15:28:49,934 - Model - INFO - The number of test data is: 1
+2024-04-26 15:28:50,655 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 16:05:04,982 - Model - INFO - PARAMETER ...
+2024-04-26 16:05:04,987 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 16:05:04,999 - Model - INFO - The number of test data is: 1
+2024-04-26 16:05:05,702 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 16:31:51,767 - Model - INFO - PARAMETER ...
+2024-04-26 16:31:51,767 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 16:31:51,779 - Model - INFO - The number of test data is: 1
+2024-04-26 16:31:52,471 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 16:33:33,245 - Model - INFO - PARAMETER ...
+2024-04-26 16:33:33,245 - Model - INFO - PARAMETER ...
+2024-04-26 16:33:33,245 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 16:33:33,245 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 16:33:33,293 - Model - INFO - The number of test data is: 1
+2024-04-26 16:33:33,293 - Model - INFO - The number of test data is: 1
+2024-04-26 16:33:33,396 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 16:33:33,396 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 17:14:37,401 - Model - INFO - PARAMETER ...
+2024-04-26 17:14:37,402 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 17:14:37,440 - Model - INFO - The number of test data is: 1
+2024-04-26 17:14:37,525 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 17:20:47,796 - Model - INFO - PARAMETER ...
+2024-04-26 17:20:47,796 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 17:20:47,836 - Model - INFO - The number of test data is: 1
+2024-04-26 17:20:47,991 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 17:26:00,302 - Model - INFO - PARAMETER ...
+2024-04-26 17:26:00,302 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 17:26:00,343 - Model - INFO - The number of test data is: 1
+2024-04-26 17:26:00,527 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 17:53:27,640 - Model - INFO - PARAMETER ...
+2024-04-26 17:53:27,640 - Model - INFO - PARAMETER ...
+2024-04-26 17:53:27,642 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 17:53:27,642 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 17:53:27,702 - Model - INFO - The number of test data is: 1
+2024-04-26 17:53:27,702 - Model - INFO - The number of test data is: 1
+2024-04-26 17:53:27,803 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 17:53:27,803 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 23:27:11,651 - Model - INFO - PARAMETER ...
+2024-04-26 23:27:11,651 - Model - INFO - PARAMETER ...
+2024-04-26 23:27:11,651 - Model - INFO - PARAMETER ...
+2024-04-26 23:27:11,658 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 23:27:11,658 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 23:27:11,658 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 23:27:11,690 - Model - INFO - The number of test data is: 1
+2024-04-26 23:27:11,690 - Model - INFO - The number of test data is: 1
+2024-04-26 23:27:11,690 - Model - INFO - The number of test data is: 1
+2024-04-26 23:27:11,843 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 23:27:11,843 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 23:27:11,843 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 23:28:32,454 - Model - INFO - PARAMETER ...
+2024-04-26 23:28:32,454 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 23:28:32,488 - Model - INFO - The number of test data is: 1
+2024-04-26 23:28:32,573 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 23:35:03,857 - Model - INFO - PARAMETER ...
+2024-04-26 23:35:03,857 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 23:35:03,892 - Model - INFO - The number of test data is: 1
+2024-04-26 23:35:04,040 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 23:35:31,167 - Model - INFO - PARAMETER ...
+2024-04-26 23:35:31,167 - Model - INFO - PARAMETER ...
+2024-04-26 23:35:31,167 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 23:35:31,167 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-26 23:35:31,200 - Model - INFO - The number of test data is: 1
+2024-04-26 23:35:31,200 - Model - INFO - The number of test data is: 1
+2024-04-26 23:35:31,306 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-26 23:35:31,306 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-28 00:10:50,899 - Model - INFO - PARAMETER ...
+2024-04-28 00:10:50,905 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-28 00:10:50,938 - Model - INFO - The number of test data is: 1
+2024-04-28 00:10:51,497 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-28 00:13:39,299 - Model - INFO - PARAMETER ...
+2024-04-28 00:13:39,300 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-28 00:13:39,335 - Model - INFO - The number of test data is: 1
+2024-04-28 00:13:39,459 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-28 00:16:29,389 - Model - INFO - PARAMETER ...
+2024-04-28 00:16:29,390 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-28 00:16:29,424 - Model - INFO - The number of test data is: 1
+2024-04-28 00:16:29,561 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-28 00:20:25,275 - Model - INFO - PARAMETER ...
+2024-04-28 00:20:25,276 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-28 00:20:25,316 - Model - INFO - The number of test data is: 1
+2024-04-28 00:20:25,463 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-28 00:23:23,943 - Model - INFO - PARAMETER ...
+2024-04-28 00:23:23,943 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-28 00:23:23,977 - Model - INFO - The number of test data is: 1
+2024-04-28 00:23:24,109 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-28 00:25:54,746 - Model - INFO - PARAMETER ...
+2024-04-28 00:25:54,746 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-28 00:25:54,778 - Model - INFO - The number of test data is: 1
+2024-04-28 00:25:54,912 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-28 00:46:24,805 - Model - INFO - PARAMETER ...
+2024-04-28 00:46:24,807 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-28 00:46:24,840 - Model - INFO - The number of test data is: 1
+2024-04-28 00:46:24,917 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2024-04-28 01:21:42,978 - Model - INFO - PARAMETER ...
+2024-04-28 01:21:42,978 - Model - INFO - Namespace(batch_size=8, gpu='0', log_dir='test', num_point=4096, num_votes=1, test_area=5, visual=False)
+2024-04-28 01:21:43,009 - Model - INFO - The number of test data is: 1
+2024-04-28 01:21:43,094 - Model - INFO - ---- EVALUATION WHOLE SCENE----
