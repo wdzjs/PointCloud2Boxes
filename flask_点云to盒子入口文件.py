@@ -8,6 +8,7 @@ import importlib
 import os
 import sys
 import pandas as pd
+import threading
 
 import torch
 from flask import Flask, Response
@@ -70,7 +71,7 @@ class ModelImport(object):
         json_str = df.to_json(orient='records', indent=4, force_ascii=False)
         return Response(json_str), 200, {'Content-Type': 'application/json; charset=utf-8'}
 
-    def predict(self, filename, data=None):
+    def predict(self, filename):
         args = parse_args()
 
         # 文件保存路径
@@ -91,11 +92,19 @@ class ModelImport(object):
         return self.get_box(filename, path='output')
 
 
-@app.route("/predict/<filename>", methods=["GET"])
-def predict(filename):
+@app.route("/start/<filename>", methods=["GET"])
+def start(filename):
     # data = request.json  # 自己获取json
     return cs.predict(filename)
 
+
+@app.route("/predict/<filename>", methods=["GET"])
+def predict(filename):
+    # data = request.json  # 自己获取json
+    global background_thread
+    background_thread = threading.Thread(target=cs.predict, args=(filename, ))
+    background_thread.start()
+    return Response("Start segmentation task"), 200, {'Content-Type': 'text/html; charset=utf-8'}
 
 @app.route("/get_box/<filename>", methods=["GET"])
 def get_box(filename):
